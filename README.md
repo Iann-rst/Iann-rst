@@ -1,16 +1,45 @@
-### Hi there 👋
 
-<!--
-**Iann-rst/Iann-rst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Iann Rodrigues 🙋‍♂️
+🧑‍🎓 Formado em **ciência da computação**.
 
-Here are some ideas to get you started:
+🌱 Estudando **React JS** e **Node.js**.
+<br/>
+<br/>
+## Tecnologias que estou utilizando no meu dia:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block;"><br/>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+  <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+
+</div><br/>
+
+## Meus últimos projetos
+- [LetMeAsk](https://github.com/Iann-rst/Letmeask).
+- [Buscar Restaurantes](https://github.com/Iann-rst/Busca-Restaurantes).
+- [Aprendendo React Hooks](https://github.com/Iann-rst/react-hooks).
+- [HTML5 e CSS3](https://github.com/Iann-rst/HTML5-e-CSS).
+
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iann-rodrigues-b71b9220a/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5577999138868)
+* **Email:** iannrst11@gmail.com
+
+![Iann GitHub stats](https://github-readme-stats.vercel.app/api?username=Iann-rst&show_icons=true&theme=chartreuse-dark )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iann-rst&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats )
+
