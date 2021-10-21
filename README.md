@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Iann Rodrigues 🙋‍♂️
 🧑‍🎓 Formado em **ciência da computação**.
 
-🌱 Estudando **React JS** e **Node.js**.
+🌱 Estudando **React JS**, **Node.js** e **React Native**
 <br/>
 <br/>
 ## Tecnologias que estou utilizando no meu dia:
