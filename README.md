@@ -31,10 +31,15 @@
 
 ## Meus últimos projetos
 
+**React Native:**
 - [Gameplay-NLW](https://github.com/Iann-rst/gameplay-nlw-together).
+
+**ReactJS:**
 - [LetMeAsk](https://github.com/Iann-rst/Letmeask).
 - [Buscar Restaurantes](https://github.com/Iann-rst/Busca-Restaurantes).
 - [Aprendendo React Hooks](https://github.com/Iann-rst/react-hooks).
+
+**HTML e CSS:**
 - [HTML5 e CSS3](https://github.com/Iann-rst/HTML5-e-CSS).
 
 ## Contato
