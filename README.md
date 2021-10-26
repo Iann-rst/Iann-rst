@@ -31,7 +31,7 @@
 
 ## Meus últimos projetos
 
-**React Native:**
+**React Native (Em desenvolvimento):**
 - [Gameplay-NLW](https://github.com/Iann-rst/gameplay-nlw-together).
 
 **ReactJS:**
