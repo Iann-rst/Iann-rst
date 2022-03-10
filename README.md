@@ -31,9 +31,6 @@
 
 ## Meus últimos projetos
 
-**React Native (Em desenvolvimento):**
-- [Gameplay-NLW](https://github.com/Iann-rst/gameplay-nlw-together).
-
 **ReactJS:**
 - [LetMeAsk](https://github.com/Iann-rst/Letmeask).
 - [Buscar Restaurantes](https://github.com/Iann-rst/Busca-Restaurantes).
@@ -42,6 +39,9 @@
 
 **HTML e CSS:**
 - [HTML5 e CSS3](https://github.com/Iann-rst/HTML5-e-CSS).
+
+**Estudando React Native (Em desenvolvimento):**
+- [Gameplay-NLW](https://github.com/Iann-rst/gameplay-nlw-together).
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iann-rodrigues-b71b9220a/)
