@@ -41,6 +41,7 @@
 - [HTML5 e CSS3](https://github.com/Iann-rst/HTML5-e-CSS).
 
 **Estudando React Native (Em desenvolvimento):**
+- [Gerar Números Aleatórios](https://github.com/Iann-rst/Numeros_Aleatorios).
 - [Gameplay-NLW](https://github.com/Iann-rst/gameplay-nlw-together).
 
 ## Contato
