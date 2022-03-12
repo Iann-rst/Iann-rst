@@ -43,6 +43,7 @@
 **Estudando React Native (Em desenvolvimento):**
 - [Gerar Números Aleatórios](https://github.com/Iann-rst/Numeros_Aleatorios).
 - [Gameplay-NLW](https://github.com/Iann-rst/gameplay-nlw-together).
+- [App Currículo](https://github.com/Iann-rst/App_Curriculo).
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iann-rodrigues-b71b9220a/)
