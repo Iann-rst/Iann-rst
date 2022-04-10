@@ -41,10 +41,10 @@
 - [HTML5 e CSS3](https://github.com/Iann-rst/HTML5-e-CSS).
 
 **Estudando React Native (Em desenvolvimento):**
-- [App Currículo](https://github.com/Iann-rst/App_Curriculo).
 - [Gerar Números Aleatórios](https://github.com/Iann-rst/Numeros_Aleatorios).
-- [Gameplay-NLW](https://github.com/Iann-rst/gameplay-nlw-together).
+- [App Currículo](https://github.com/Iann-rst/App_Curriculo).
 - [App com formulário](https://github.com/Iann-rst/formapp).
+- [Gameplay-NLW](https://github.com/Iann-rst/gameplay-nlw-together).
 
 
 ## Contato
