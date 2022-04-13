@@ -43,7 +43,6 @@
 - [App Currículo](https://github.com/Iann-rst/App_Curriculo).
 - [App com formulário](https://github.com/Iann-rst/formapp).
 - [AppLocalStorage](https://github.com/Iann-rst/appLocalStorage).
-- [Gameplay-NLW](https://github.com/Iann-rst/gameplay-nlw-together).
 
 
 
