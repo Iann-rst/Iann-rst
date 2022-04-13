@@ -42,7 +42,7 @@
 - [Gerar Números Aleatórios](https://github.com/Iann-rst/Numeros_Aleatorios).
 - [App Currículo](https://github.com/Iann-rst/App_Curriculo).
 - [App com formulário](https://github.com/Iann-rst/formapp).
-- [AppLocalStorage](https://github.com/Iann-rst/appLocalStorage).
+- [App utilizando armazenamento local](https://github.com/Iann-rst/appLocalStorage).
 
 
 
