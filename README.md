@@ -38,7 +38,7 @@
 - [Buscar Restaurantes](https://github.com/Iann-rst/Busca-Restaurantes).
 
 
-**Estudando React Native (Em desenvolvimento):**
+**React Native:**
 - [Gerar Números Aleatórios](https://github.com/Iann-rst/Numeros_Aleatorios).
 - [App Currículo](https://github.com/Iann-rst/App_Curriculo).
 - [App com formulário](https://github.com/Iann-rst/formapp).
