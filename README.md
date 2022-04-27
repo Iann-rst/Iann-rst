@@ -43,6 +43,7 @@
 - [App Currículo](https://github.com/Iann-rst/App_Curriculo).
 - [App com formulário](https://github.com/Iann-rst/formapp).
 - [App utilizando armazenamento local](https://github.com/Iann-rst/appLocalStorage).
+- [LoginSocialApp](https://github.com/Iann-rst/LoginSocialApp).
 
 
 
