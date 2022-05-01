@@ -5,7 +5,7 @@
 🌱 Estudando **React JS**, **Node.js** e **React Native**
 <br/>
 <br/>
-## Tecnologias que estou utilizando no meu dia:
+## Tecnologias que utilizo nos meus projetos:
 
 <div style="display: inline-block;"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
