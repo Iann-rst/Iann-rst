@@ -1,49 +1,27 @@
 
 ### Olá! Eu sou o Iann Rodrigues 🙋‍♂️
-🧑‍🎓 Formado em **ciência da computação**.
+🧑‍🎓 Formado em **Ciência da Computação**.
 
-🌱 Estudando **React JS**, **Node.js** e **React Native**
+🌱 Estudando **React Native**, **Typescript**, **JavaScript**, **Styled-Components**
 <br/>
 <br/>
 ## Tecnologias que utilizo nos meus projetos:
 
-<div style="display: inline-block;"><br/>
+<div align="center" style="display: inline-block;"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img align="center" alt="Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-  <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
+  <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </div><br/>
 
-## Meus últimos projetos
-
-**ReactJS:**
-- [Catálogo de Filmes](https://github.com/Iann-rst/Catalogo_Filmes).
-- [LetMeAsk](https://github.com/Iann-rst/Letmeask).
-- [Sistema de Chamadas](https://github.com/Iann-rst/Sistema-de-chamadas).
-- [Buscar Restaurantes](https://github.com/Iann-rst/Busca-Restaurantes).
-
-
-**React Native:**
-- [Gerar Números Aleatórios](https://github.com/Iann-rst/Numeros_Aleatorios).
-- [App Currículo](https://github.com/Iann-rst/App_Curriculo).
-- [App com formulário](https://github.com/Iann-rst/formapp).
-- [App utilizando armazenamento local](https://github.com/Iann-rst/appLocalStorage).
-- [LoginSocialApp](https://github.com/Iann-rst/LoginSocialApp).
 
 
 
