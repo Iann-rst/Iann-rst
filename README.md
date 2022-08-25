@@ -32,11 +32,7 @@
 
 [Catalogo de Filmes](https://github.com/Iann-rst/Catalogo_Filmes).
 
-[Busca Restaurantes](https://github.com/Iann-rst/Busca-Restaurantes).
-
 [LetmeAsk](https://github.com/Iann-rst/Letmeask).
-
-[Happy](https://github.com/Iann-rst/nlw-03-omnistack).
 
 ### React Native
 
