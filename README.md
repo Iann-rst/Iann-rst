@@ -47,6 +47,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5577999138868)
 * **Email:** iannrst11@gmail.com
 
-![Iann GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Iann-rst&show_icons=true&theme=chartreuse-dark )
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Iann-rst&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats )
+![Iann GitHub stats](https://github-readme-stats.vercel.app/api?username=Iann-rst&show_icons=true&theme=chartreuse-dark )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iann-rst&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats )
 
