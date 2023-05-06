@@ -15,7 +15,7 @@
 
 <h2 align="center"> Tecnologias que utilizo nos meus projetos:</h2>
 
-<div style="display: grid; grid-template-columns:repeat(4, 1fr); gap: 10px">
+<div style="display: grid; grid-template-columns:repeat(4, 1fr); gap: 20px">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -60,6 +60,7 @@
 </div>
 
 <br/>
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iann-rodrigues-b71b9220a/)
