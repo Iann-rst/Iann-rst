@@ -5,13 +5,11 @@
 <br/>
 
 <div align="center">
-🧑‍🎓 Formado em <strong>Ciência da Computação</strong>.
-
-:computer: Desenvolvedor Full-Stack Javascript/Typescript.
-
+🧑‍🎓 Formado em <strong>Ciência da Computação</strong>.<br/>
+:computer: Desenvolvedor Full-Stack Javascript/Typescript.<br/>
 :book: Sempre estudando e aperfeiçoando meus conhecimentos.
 </div>
-
+<br/>
 <div align="center"> 
 <img alt="" src="https://user-images.githubusercontent.com/48128325/236633854-6adbad35-193e-4fd7-b900-0c45bbb08164.gif" />
 </div>
