@@ -10,19 +10,13 @@
 :computer: Desenvolvedor Full-Stack Javascript/Typescript
 
 </div>
+
 <br/>
 <br/>
 
 <h2 align="center"> Tecnologias que utilizo nos meus projetos:</h2>
 
 <div align="center" style="display: grid; grid-template-columns:repeat(4, 1fr); gap: 20px">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-  <img alt="Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-
-  <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
@@ -40,6 +34,10 @@
 
   <img alt="Framework NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+
+  <img alt="Fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
+
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
       
   <img alt="Prisma ORM" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
@@ -52,11 +50,9 @@
 
   <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-
-  <img alt="Fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
 </div>
 
 <br/>
