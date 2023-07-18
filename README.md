@@ -7,7 +7,8 @@
 <div align="center">
 🧑‍🎓 Formado em <strong>Ciência da Computação</strong>.<br/>
 :computer: Desenvolvedor Full-Stack Javascript/Typescript.<br/>
-:book: Sempre estudando e aperfeiçoando meus conhecimentos.
+:book: Sempre estudando e aperfeiçoando meus conhecimentos.<br/>
+  Aventurando no mundo do Flutter e Kotlin.
 </div>
 <br/>
 <div align="center"> 
